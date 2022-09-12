@@ -1,2 +1,0 @@
-# workrightnw
- wp website template
